@@ -1,0 +1,12 @@
+1.音频保存
+2.socket断开
+3.i帧处理
+4."Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
+
+
+
+1.验证网页收视
+2.对接音频保存相关
+3.确认中控不用NDK是否可以搞定
+4.确认SDK是否可用
+5.解决前屏订阅失败的问题
